@@ -3,3 +3,5 @@ out/
 TerminalChat.iml
 !src/Main.java
 src/
+main.py
+__pycache__/
