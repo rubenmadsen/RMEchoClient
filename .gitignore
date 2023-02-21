@@ -1,0 +1,5 @@
+.idea/
+out/
+TerminalChat.iml
+!src/Main.java
+src/
