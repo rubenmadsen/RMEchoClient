@@ -3,6 +3,6 @@ out/
 TerminalChat.iml
 !src/Main.java
 src/
-!src/RMEchoClient.py
+!src/RMEchoPacket.py
 main.py
 __pycache__/
