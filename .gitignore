@@ -1,8 +1,6 @@
 .idea/
 out/
 TerminalChat.iml
-!src/Main.java
-src/
 !src/RMEchoPacket.py
 main.py
 __pycache__/
